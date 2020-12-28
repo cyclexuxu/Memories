@@ -17,3 +17,7 @@ The following functionalities are completed:
 - Express(.js) - Node.js web framework
 - React(.js) - a client-side JavaScript framework
 - Node(.js) - the premier JavaScript web server
+
+<p align="left">
+  <img height="285" width="285" src="pic/Screen Shot 2020-12-27 at 10.15.12 PM.png"/>
+</p>
