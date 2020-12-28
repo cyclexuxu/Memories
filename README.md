@@ -25,12 +25,12 @@ The following functionalities are completed:
 ## Walkthrough
 
 <p align="left">
-  <img height="320" width="450" src="pic/before.png"/>
+  <img height="420" width="550" src="pic/before.png"/>
 </p>
 
 
 <p align="left">
-  <img height="320" width="450" src="pic/after.png"/>
+  <img height="420" width="550" src="pic/after.png"/>
 </p>
 
 
