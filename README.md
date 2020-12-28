@@ -19,5 +19,5 @@ The following functionalities are completed:
 - Node(.js) - the premier JavaScript web server
 
 <p align="left">
-  <img height="285" width="285" src="pic/Screen Shot 2020-12-27 at 10.15.12 PM.png"/>
+  <img height="285" width="350" src="pic/Screen Shot 2020-12-27 at 10.15.12 PM.png"/>
 </p>
