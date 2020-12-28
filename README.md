@@ -4,7 +4,7 @@ A social media MERN application that allows you to post interesting events that 
 
 ## User Stories
 
-The following functionality is completed:
+The following functionalities are completed:
 
 - [ ✔ ] User can create a post with **creator, title, message, tags, and a picture from local** .
 - [ ✔ ] User can edit existing posts.
