@@ -33,4 +33,12 @@ The following functionalities are completed:
   <img height="420" width="550" src="pic/after.png"/>
 </p>
 
+## Getting Started
+- Fork and clone the repo to your local.
+- Set up MongoDB Atlas with your own on: https://www.mongodb.com/cloud/atlas 
+- run  **`npm i && npm start`** for both client and server side to start the app
+- You are all set!
+
+## Credits
+Tutorial adapted from **JavaScript Mastery**.
 
