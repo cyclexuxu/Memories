@@ -1,3 +1,5 @@
+# Site
+- https://memory-gallery.netlify.app/
 # Memories
 
 ---A social media **MERN** application that allows you to post interesting events that happened in your life!
@@ -21,23 +23,6 @@ The following functionalities are completed:
 <p align="left">
   <img height="300" width="400" src="pic/Screen Shot 2020-12-27 at 10.15.12 PM.png"/>
 </p>
-
-## Walkthrough
-
-<p align="left">
-  <img height="420" width="600" src="pic/before.png"/>
-</p>
-
-
-<p align="left">
-  <img height="420" width="600" src="pic/after.png"/>
-</p>
-
-## Getting Started
-- Fork and clone the repo to your local.
-- Set up MongoDB Atlas with your own on: https://www.mongodb.com/cloud/atlas 
-- run  **`npm i && npm start`** for both client and server side to start the app
-- You are all set!
 
 ## Credits
 Tutorial adapted from **JavaScript Mastery**.
