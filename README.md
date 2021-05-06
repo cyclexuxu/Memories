@@ -1,4 +1,4 @@
-# Visit Site:
+# Delpoyed Site:
 - https://memory-gallery.netlify.app/
 # Memories
 
